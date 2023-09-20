@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/File_Reader" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
